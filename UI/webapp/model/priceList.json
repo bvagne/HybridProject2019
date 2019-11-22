@@ -1,0 +1,22 @@
+{
+  "mRoot" : [{
+    "dkey": "0",
+    "dtext": "--Select--"
+  },{
+    "dkey" : "1",
+    "dtext" : "$"
+  }, {
+    "dkey" : "2",
+    "dtext" : "$$"
+  }, {
+    "dkey" : "3",
+    "dtext" : "$$$"
+
+  },{
+    "dkey" : "4",
+    "dtext" : "$$$$"
+  }, {
+    "dkey" : "5",
+    "dtext" : "$$$$$"
+  } ]
+}

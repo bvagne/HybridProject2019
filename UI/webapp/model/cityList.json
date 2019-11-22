@@ -1,0 +1,15 @@
+{
+  "mRoot" : [{
+    "dkey": "0",
+    "dtext": "--Select--"
+  },{
+    "dkey" : "1",
+    "dtext" : "Munich"
+  }, {
+    "dkey" : "2",
+    "dtext" : "Paris"
+  }, {
+    "dkey" : "3",
+    "dtext" : "Rome"
+  } ]
+}

@@ -1,0 +1,40 @@
+{
+  "_version": "1.7.0",
+  "sap.app": {
+    "id": "local.HybridProject",
+    "type": "application",
+    "title": "Image Recognition",
+    "description": "Upload Image and Call External Service"
+  },
+
+  "sap.ui5": {
+    "dependencies": {
+      "minUI5Version": "1.60.0",
+      "libs": {
+        "sap.ui.core": {},
+        "sap.m": {}
+      }
+    },
+    "rootView": {
+      "viewName": "local.HybridProject.view.main",
+      "type": "XML",
+      "async": true,
+      "id": "app"
+    },
+    "models": {
+      "i18n": {
+        "type": "sap.ui.model.resource.ResourceModel",
+        "settings": {
+          "bundleName": "local.HybridProject.i18n.i18n"
+        }
+      }
+    },
+    "resources": {
+      "css": [
+        {
+          "uri": "css/style.css"
+        }
+      ]
+    }
+  }
+}
